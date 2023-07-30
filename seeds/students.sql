@@ -191,4 +191,4 @@ INSERT INTO students (id, name, email, phone, github, start_date, end_date, coho
 INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (191, 'Vivienne Larson', NULL, NULL, 'voluptatem', '2018-12-17T08:00:00.000Z', null, null);
 INSERT INTO students (id, name, email, phone, github, start_date, end_date, cohort_id) VALUES (192, 'Jerrold Lindgren', 'jabari.stoltenberg@witting.biz', '370-797-7786', NULL, '2018-12-17T08:00:00.000Z', null, null);
 
--- ALTER SEQUENCE students_id_seq RESTART WITH 193;
+ALTER SEQUENCE students_id_seq RESTART WITH 193;
